@@ -1,5 +1,5 @@
 altgraph==0.17.4
-certifi==2023.7.22
+certifi==2024.7.4
 cffi==1.15.1
 charset-normalizer==3.3.2
 ghp-import==2.1.0
