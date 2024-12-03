@@ -1,3 +1,7 @@
+# No Maintenance Notice
+
+I am no longer maintaining this repository, as I have been dealing with a few factors that have stopped me from constantly updating this project; work, college, and mental health. I recommend you to check out skzk's [streetlevel](https://github.com/sk-zk/streetlevel), as it is more updated, and better optimized.
+
 <div align="center">
 
 [![LOGO](https://raw.githubusercontent.com/shmugoh/sv-dlp/master/docs/banner.png)](#readme)
